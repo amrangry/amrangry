@@ -10,6 +10,8 @@
 <br><br><br><br><br>
 
 <!--
+https://readme.so/editor
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 https://github.com/Link-/Link-
 https://github.com/ARamy23
