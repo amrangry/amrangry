@@ -1,5 +1,36 @@
 ### Hi there 👋
 
+## Author
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://avatars.githubusercontent.com/u/2900952?s=400&u=41c504ca200e2f92638fc630e8361da78296b35c&v=4" width="180" alt="Amr Ahmed Elghadban"/>
+
+        **Amr Ahmed Elghadban (AmrAngry)**  
+        Email: [amr.elghadban@gmail.com](mailto:amr.elghadban@gmail.com)  
+        Website: [https://amrangry.github.io/](https://amrangry.github.io/)  
+
+        <p align="center">
+          <a href="https://github.com/amrangry">
+            <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height="36" alt="GitHub"/>
+          </a>
+          <a href="https://twitter.com/amr_elghadban">
+            <img src="https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36" alt="Twitter"/>
+          </a>
+          <a href="https://www.linkedin.com/in/amrelghadban/">
+            <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
+          </a>
+        </p>
+
+        [Send me an email](mailto:amr.elghadban@gmail.com?subject=I%20checked%20your%20GitHub%20repo!)
+      </td>
+    </tr>
+  </table>
+</div>
+
+
  <br>
    <hr>
   <p align="center">
