@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Elghadban</h1>
-<h3 align="center">Lead Software Engineer (iOS) & Tech Project Manager based in Dubai, UAE</h3>
+<h3 align="center">Lead Software Engineer & Tech Project Manager based in Dubai, UAE</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amrangry&label=Profile%20views&color=0e75b6&style=flat" alt="amrangry" />
