@@ -1,14 +1,78 @@
 ### Hi there 👋
 
 
- <br>
-   <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-  <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrangry&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="mau" /></p>
-  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amrangry&show_icons=true&locale=en&theme=chartreuse-dark" alt="mau" width="410" /></p>
-<br><br><br><br><br>
+
+
+
+<h1 align="center">Hi 👋, I'm Amr Elghadban</h1>
+<h3 align="center">Lead Software Engineer (iOS) & Tech Project Manager based in Dubai, UAE</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amrangry&label=Profile%20views&color=0e75b6&style=flat" alt="amrangry" />
+</p>
+
+- 🔭 Currently a **Projects Lead** working across iOS/mobile delivery, Scrum, and digital transformation
+- 🏢 Background spans **Seddiqi Holding, Digital Dubai Authority, Etisalat, ITWORX, NTG Clarity**
+- 📱 8+ years building elegant, production-grade **iOS applications** — fintech, e-commerce & gov-tech
+- 🎯 Also work as a **Scrum Master / Tech PM**, bridging engineering and delivery
+- 🌍 Contributed to several apps for social good across the Middle East
+- ⚡ Fun fact: check out `iOS-awesome-pods-` below, a curated list of the best iOS libraries
+- 📫 Reach me: **amr.elghadban@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile%2FScrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amrangry&show_icons=true&locale=en&theme=chartreuse-dark" alt="amrangry" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrangry&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="amrangry" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrangry&theme=chartreuse-dark" alt="amrangry" />
+</p>
+
+---
+
+### 📌 Pinned & Notable Projects
+
+- 🧩 [**iOS-awesome-pods-**](https://github.com/amrangry/iOS-awesome-pods-) — curated list of the most useful iOS CocoaPods libraries
+- 💻 [**dev_macOS_environment_setup**](https://github.com/amrangry/dev_macOS_environment_setup) — scripted macOS dev environment setup
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/amrelghadban/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://amrangry.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@amrangry" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://stackexchange.com/users/1384480/amr-angry" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+</p>
+
+> "Try to learn from others and always listen to what people have to say — even if I know what they're talking about, you never know what word they hold." — Amr
+
 
 <!--
 https://readme.so/editor
