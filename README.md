@@ -1,9 +1,3 @@
-### Hi there 👋
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Amr Elghadban</h1>
 <h3 align="center">Lead Software Engineer (iOS) & Tech Project Manager based in Dubai, UAE</h3>
 
@@ -35,11 +29,11 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amrangry&show_icons=true&locale=en&theme=chartreuse-dark" alt="amrangry" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrangry&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="amrangry" />
-</p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Activeness</b></i></p>
+<p>
+<!--  Generate stats via GitHub Actions instead of a live API
+A workflow (e.g. github-readme-stats-action) runs on a schedule, renders the stats as a static SVG, and commits it into your repo. No live external dependency at all — it just works once committed, though it updates on a schedule rather than live.-->
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrangry&theme=chartreuse-dark" alt="amrangry" />
